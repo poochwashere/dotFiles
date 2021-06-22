@@ -14,17 +14,16 @@
     * zshell
     * oh my zsh
     * miniconda3
-    * kubernetes-cli
+    * `kubernetes-cli`
     * kube-ps1
     * express vpn
     * azure cli  
-<br>
+
 * Configs
     * pure theme
     * tomorrow night
     * enable `locate`
-<br>
-<br>
+
 * Workspace
   * Generate new ssh keypair
   * Add public key to Github 
