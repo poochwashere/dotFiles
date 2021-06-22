@@ -29,7 +29,7 @@
   * Add public key to Github 
   * Add private key into keychain and update ssh `config` file
   `ssh-add -K ~/.ssh` 
-   ```txt
+   ```
    Host *
     UseKeychain yes
     AddKeysToAgent yes
