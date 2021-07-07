@@ -18,6 +18,8 @@
     * kube-ps1
     * express vpn
     * azure cli  
+    * quicklook plugins> `brew install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspicious-package apparency quicklookase qlvideo
+` 
 
 * Configs
     * pure theme
