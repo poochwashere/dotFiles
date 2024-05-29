@@ -6,20 +6,39 @@
 
 * Install:
     * homebrew
+    * Docker for Desktop
     * git
     * vscode
     * htop
     * jq
+    * yq
     * iterm2
     * zshell
     * oh my zsh
     * miniconda3
-    * `kubernetes-cli`
-    * kube-ps1
     * express vpn
-    * azure cli  
-    * quicklook plugins> `brew install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspicious-package apparency quicklookase qlvideo
-` 
+    * azure-cli  
+    * helm
+    * ripgrep
+    * quicklook plugins
+
+          brew install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspicious-package apparency quicklookase qlvideo
+
+    * Install `kubectl` to match server version 
+        -  `sudo az aks install-cli --client-version 1.28.5`
+    * krew
+    * kubectx
+    * kubens 
+    * kube-ps1
+    * fzf
+    * poetry
+    * pure
+    * pyenv
+    * telnet
+    * tree 
+    * stern
+    * wget
+
 
 * Configs
     * pure theme
